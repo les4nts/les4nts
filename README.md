@@ -1,4 +1,5 @@
-## aopa bão com vocês?? sejam bem vindos ao meu clube e sintam-se a vontade 
+## aopa bão com vocês?? sejam bem vindos ao meu clube e se juntem a nós na torcida em busca da taça champions of life
+ 
 <div align="center">
 
 # Les4nts Hotspurs ⚽💻  
