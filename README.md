@@ -26,12 +26,11 @@
 
 ---
 
-### 🏋️ Treinamentos em Andamento
+### 🎮 Modo Carreira
 
-| Projeto                   | Posição Tática     | Status            |
-|---------------------------|--------------------|-------------------|
-| `Calculadora-raiz`        | Ponta direita 🏃‍♂️  | 📈 em andamento     |
-| `portfolio-cleib`         | Zagueiro moderno   | 🔄 Em revisão     |
+- 🧒 Comecei com marcenaria, agora sigo firme no caminho tech e com o coração voltado a areá militar
+- 👨‍💻 Estudante dedicado, sempre com vontade de aprender mais
+- ⚙️ Dev Lateral: código na raça e na elegância
 
 ---
 
@@ -41,6 +40,15 @@
 - 📜 Participante do Com Domínio Digital (Python, Java, Banco de Dados)
 - ⚽ Vários repositórios já no campo!
 - 💬 README de destaque com estilo ⚡
+
+---
+
+### 🏋️ Treinamentos em Andamento
+
+| Projeto                   | Posição Tática     | Status            |
+|---------------------------|--------------------|-------------------|
+| `Calculadora-raiz`        | Ponta direita 🏃‍♂️  | 📈 em andamento     |
+| `portfolio-cleib`         | Zagueiro moderno   | 🔄 Em revisão     |
 
 ---
 
@@ -55,16 +63,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" />
 </p>
-
----
-
----
-
-### 🎮 Modo Carreira
-
-- 🧒 Comecei com marcenaria, agora sigo firme no caminho tech e com o coração voltado a areá militar
-- 👨‍💻 Estudante dedicado, sempre com vontade de aprender mais
-- ⚙️ Dev Lateral: código na raça e na elegância
 
 ---
 
